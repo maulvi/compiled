@@ -1,2 +1,2 @@
 # compiled
-random compiled binary
+random compiled binary(tested)
